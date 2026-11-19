@@ -1,0 +1,10 @@
+yöneticinin ana sayfasıdır ilk aşamada salon üye ve eğitmen sayılarını gösterir.
+git,pc de değişiklik geçmişini tutar 
+github aynı projenin 
+***git geçmişine commit almak bir dosyayı kaydetmek ve github a push etmek 3 ayrı işlemdir
+proje krulumuna başlarken krulumunun kontrol edilmesini sağlayan komutlar: node -v/npm -v/git --version
+npm run dev komutu package.json komutunu çalıştırır bite geliştirici sunucusu başlatır ve terminalde local host genellikle local host 53.73 görğeürüz ancak port dolluysa suucuyu açık tutuğumuz sürece dosya değişikliklerini gerçek zamanlı ekranda görebiliriz.
+package.json içinde paket adları mpv komutları,scr/App.jsx mpv çödüğü sürümler bulunur.
+node moduls kısımları mpv tarafından tekrar üretilir ve git e yüklenmez .gittignore dosyasını şablonun oluşturduğu biçimde koruruz 
+github da proje eski dosyalar görünüyorsa aşağıdaki 3 soruya bakılmalı:
+1- dosya kaydoldu moduls2-commit oluşturulmuş moduls3-doğru brchne push edilmiş mi
